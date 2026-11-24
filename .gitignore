@@ -1,0 +1,9 @@
+# Original source images (copies used by the site live in assets/)
+/photo/
+/team/
+/logo kob.jpeg
+
+# Local tooling
+.claude/
+.DS_Store
+Thumbs.db
